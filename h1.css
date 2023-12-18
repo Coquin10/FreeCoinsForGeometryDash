@@ -1,0 +1,26 @@
+h1 {
+
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h2 {
+
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+a{
+
+    display: block;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: darkgrey;
+    border-radius: 10px;
+    padding: 15px 30px;
+    color: white;
+    text-decoration: none;
+
+}
